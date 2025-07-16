@@ -27,17 +27,12 @@ This project was built to practice and strengthen my front-end development skill
 
 ---
 
-## 📸 Preview
-
-> *(You can add a screenshot of your page in the repo and link it like this)*  
-> `![Preview](./assets/gaming.png)`
-
----
-
 ## 🌐 Live Demo
 
-> 🔗 [Live Site]((https://nufail-01.github.io/PlayStation-UI/))  
-> *(Replace with your actual GitHub Pages URL)*
+[![Website Preview](assets/images/gaming.png
+)](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+
+---
 
 ---
 
