@@ -30,13 +30,13 @@ This project was built to practice and strengthen my front-end development skill
 ## 📸 Preview
 
 > *(You can add a screenshot of your page in the repo and link it like this)*  
-> `![Preview](./assets/images/gaming.png)`
+> `![Preview](./assets/gaming.png)`
 
 ---
 
 ## 🌐 Live Demo
 
-> 🔗 [Live Site](https://your-username.github.io/your-repo-name/)  
+> 🔗 [Live Site]((https://nufail-01.github.io/PlayStation-UI/))  
 > *(Replace with your actual GitHub Pages URL)*
 
 ---
