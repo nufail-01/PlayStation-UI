@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Website | Playstation</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./assets/images/favicon.ico" type="image/ico">
+</head>
+
+<body>
+
+    <!-- ====================CONTAINER==================== -->
+
+    <div class="container">
+        <div class="navbar">
+            <img src="./assets/images/logo.png" alt="logo" class="logo">
+            <nav>
+                <ul id="menuList">
+                    <li><a href="#">game controllers</a></li>
+                    <li><a href="#">VR accessories</a></li>
+                    <li><a href="#">media remotes</a></li>
+                    <li><a href="#">others</a></li>
+                </ul>
+            </nav>
+            <img src="./assets/images/menu.png" class="menu-icon" onclick="togglemenu()">
+        </div>
+
+        <!-- ====================ROWS==================== -->
+
+        <div class="row">
+            <div class="col-1">
+                <h2>PS4 v2<br>dualshock 4</h2>
+                <h3>wireless controller for PlayStation 4</h3>
+                <p>(compatible/generic)</p>
+                <h4>$32.50</h4>
+                <button type="button">buy now <img src="./assets/images/arrow.png" alt=""></button>
+            </div>
+            <div class="col-2">
+                <img src="./assets/images/controller.png" alt="" class="controller">
+                <div class="color-box"></div>
+                <div class="add-btn">
+                    <img src="./assets/images/add.png" alt="">
+                    <p><span>add to cart</span></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ====================SOCIAL LINK==================== -->
+
+        <div class="social-links">
+            <img src="./assets/images/fb.png" alt="">
+            <img src="./assets/images/tw.png" alt="">
+            <img src="./assets/images/ig.png" alt="">
+        </div>
+    </div>
+
+    <script>
+        var menuList = document.getElementById("menuList")
+
+        menuList.style.maxHeight = "0px";
+
+        function togglemenu() {
+
+            if (menuList.style.maxHeight == "0px") {
+                menuList.style.maxHeight = "130px";
+            }
+            else {
+                menuList.style.maxHeight = "0px";
+            }
+        }
+
+    </script>
+
+</body>
+
+</html>
