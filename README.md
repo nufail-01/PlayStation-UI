@@ -36,8 +36,8 @@ This project was built to practice and strengthen my front-end development skill
 
 ---
 
-## 📁 How to Use
+## 💻 Source Code
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+[🔗 GitHub Repository]((https://github.com/nufail-01/PlayStation-UI.git))
+
+---it
