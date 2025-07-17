@@ -30,10 +30,9 @@ This project was built to practice and strengthen my front-end development skill
 ## 🌐 Live Demo
 
 [![Website Preview](assets/images/gaming.png
-)](https://nufail-01.github.io/PlayStation-UI/))
+)](https://nufail-01.github.io/PlayStation-UI/)
 
 ---
-
 
 ## 💻 Source Code
 
