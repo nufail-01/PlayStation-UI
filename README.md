@@ -4,13 +4,6 @@ A modern PlayStation-style landing page designed using HTML and CSS to sharpen m
 
 ---
 
-## 🌐 Live Demo
-
-[![Website Preview](assets/images/gaming.png
-)](https://nufail-01.github.io/PlayStation-UI/)
-
----
-
 ## 🚀 Features
 
 - 🎨 PlayStation-style dark theme and color scheme
@@ -18,6 +11,13 @@ A modern PlayStation-style landing page designed using HTML and CSS to sharpen m
 - 🖼️ Hero section with call-to-action buttons and banner
 - ✨ Smooth **hover effects** and **CSS transitions** for interactive UI
 - ⚡ Clean, modern, and minimal design
+
+---
+
+## 🌐 Live Demo
+
+[![Website Preview](assets/images/gaming.png
+)](https://nufail-01.github.io/PlayStation-UI/)
 
 ---
 
