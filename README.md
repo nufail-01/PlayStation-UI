@@ -40,7 +40,3 @@ This project was built to practice and strengthen my front-end development skill
 
 ---
 
----
-
----
-
