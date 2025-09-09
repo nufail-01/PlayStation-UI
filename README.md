@@ -36,6 +36,6 @@ This project was built to practice and strengthen my front-end development skill
 
 ## 💻 Source Code
 
-[🔗 GitHub Repository](https://github.com/nufail-01/PlayStation-UI)
+🔗 [GitHub Repository](https://github.com/nufail-01/PlayStation-UI)
 
 ---
