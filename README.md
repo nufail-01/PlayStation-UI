@@ -39,3 +39,8 @@ This project was built to practice and strengthen my front-end development skill
 🔗 [GitHub Repository](https://github.com/nufail-01/PlayStation-UI)
 
 ---
+## 🤝 Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
+
+---
