@@ -1,4 +1,4 @@
-# 🎮 PlayStation-Themed Gaming Landing Page
+## 🎮 PlayStation-Themed Gaming Landing Page
 
 A modern PlayStation-style landing page designed using HTML and CSS to sharpen my front-end skills through hands-on practice. This project focuses on layout design, interactivity, and responsiveness using only HTML and CSS.
 
