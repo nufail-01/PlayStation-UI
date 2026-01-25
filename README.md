@@ -45,4 +45,3 @@ This project was built to practice and strengthen my front-end development skill
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ---
----
